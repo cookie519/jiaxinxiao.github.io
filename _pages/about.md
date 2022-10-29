@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiaxin Xiao is a senior student major in Electronic Engineering at Tsinghua University. She has done several projects on **biomedical signal processing** (including EEG, MRI) with **machine learning** methods. She is looking for a PhD position in EE/ECE/BME. Her CV is [here](/jiaxinxiao.github.io/files/CV_JiaxinXiao.pdf).
+Jiaxin Xiao is a senior student majoring in Electronic Engineering at Tsinghua University. She has done several projects on **biomedical signal processing** (including EEG, MRI) with **machine learning** methods. She is looking for a PhD position in EE/ECE/BME. Her CV is [here](/jiaxinxiao.github.io/files/CV_JiaxinXiao.pdf).
 
 Education
 -----
