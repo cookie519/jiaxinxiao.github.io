@@ -8,7 +8,7 @@ author_profile: true
 
 Hobbies
 -----
-In my free time, I like traveling, skiing, diving, and making all kinds of things by hand. Here are some of my works.   
+In her free time, she likes traveling, skiing, diving, and making all kinds of things by hand. Here are some of her works.   
 
 ### Paper model of Miku
  
