@@ -21,6 +21,10 @@ Awards
 * Scholarship for Social Practice Excellence, 2020
 * Scholarship for Academic Excellence, 2020
 
+English test
+-----
+* TOEFL 109, reading 29  listening 30  speaking 24  writing 26
+
 Skills
 -----
 * Programming: MATLAB, Python, PyTorch, TensorFlow, C/C++, Verilog HDL, LATEX, git, ROS
