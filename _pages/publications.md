@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-[SRNHR: Training neural networks for super-resolution MRI using noisy high-resolution reference data](/jiaxinxiao.github.io/files/2022-SRNR-ISMRM.pdf)
+[SRNR: Training neural networks for *S*uper-*R*esolution MRI using *N*oisy high-resolution *R*eference data](/jiaxinxiao.github.io/files/2022-SRNR-ISMRM.pdf)
 -----
 **Jiaxin Xiao**, Zihan Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Huang, Qiyuan Tian   
 Submitted to *ISMRM*
