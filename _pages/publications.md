@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-[SRNR: Training neural networks for *S*uper-*R*esolution MRI using *N*oisy high-resolution *R*eference data](https://arxiv.org/ftp/arxiv/papers/2211/2211.05360.pdf)
+[SRNR: Training neural networks for *S*uper-*R*esolution MRI using *N*oisy high-resolution *R*eference data](https://arxiv.org/abs/2211.05360)
 -----
 **Jiaxin Xiao**, Zihan Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Huang, Qiyuan Tian   
 Submitted to *ISMRM*
