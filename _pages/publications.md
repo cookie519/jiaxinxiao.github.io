@@ -6,10 +6,10 @@ author_profile: true
 
 ---
 
-SRNHR: Training neural networks for super-resolution MRI using noisy high-resolution reference data
+[SRNHR: Training neural networks for super-resolution MRI using noisy high-resolution reference data](/jiaxinxiao.github.io/files/2022-SRNR-ISMRM.pdf)
 -----
 **Jiaxin Xiao**, Zihan Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Huang, Qiyuan Tian   
-To be submitted to *ISMRM*
+Submitted to *ISMRM*
 
 [SaleNet: A low-power end-to-end CNN accelerator for sustained attention level evaluation using EEG](https://arxiv.org/abs/2209.01386)
 -----
