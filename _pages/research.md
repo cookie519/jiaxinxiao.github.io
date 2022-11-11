@@ -13,7 +13,7 @@ Training neural networks for super-resolution MRI using noisy high-resolution re
 **Advisor: [Qiyuan Tian](https://www.nmr.mgh.harvard.edu/~qt012/index.html), Instructor in Radiology, Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School**
 * Designed and conducted both simulation and empirical data experiments and demonstrated comparable effectiveness in the training with noisy high-resolution reference data and clean data in super-resolution tasks;
 * Simulated the low-resolution image volume and noisy high-resolution image volume, and realized the neural network MU-Net based on Tensorflow; 
-* Proposed a deep learning-based super-resolution method that does not require high-SNR reference data and can potentially reduce the tedious and repeated collection to acquire clean high-resolution MRI images. 
+* Demonstrate that a smaller number of repetitions of high-resolution reference data for averaging can be adopted to achieve slightly compromised super-resolution performance and improve feasibility and accessibility.
 * Currently working on paper writing.
 
 <div>			
@@ -68,8 +68,8 @@ High-frequency oscillations detection using Transformer-based neural network
 * Currently working on further model optimization and validation.
 
 <div>			
-    <img src="/jiaxinxiao.github.io/images/figure6.png"
-         width=800>
+    <img src="/jiaxinxiao.github.io/images/framework.png"
+         width=900>
     <br>
     <b>Figure.</b> Framework of Transformer-based HFO detection. 
 </div>    
