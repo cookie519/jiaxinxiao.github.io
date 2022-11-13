@@ -27,6 +27,6 @@ English test
 
 Skills
 -----
-* Programming: MATLAB, Python, PyTorch, TensorFlow, C/C++, Verilog HDL, LATEX, git, ROS
+* Programming: MATLAB, Python, PyTorch, TensorFlow, C/C++, Verilog HDL, LaTeX, git, ROS
 * Languages: Mandarin Chinese, English
 
