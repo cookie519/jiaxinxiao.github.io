@@ -15,17 +15,17 @@ Accepted for presentation at the *2023 ISMRM Workshop on Data Sampling & Image R
 **Jiaxin Xiao**, Zihan Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Qiyuan Tian   
 Submitted to the *2023 ISMRM Annual Meeting*
 
-[SRNR: Training neural networks for *S*uper-*R*esolution MRI using *N*oisy high-resolution *R*eference data]
+SRNR: Training neural networks for *S*uper-*R*esolution MRI using *N*oisy high-resolution *R*eference data
 -----
 **Jiaxin Xiao**, Zihan Li, Ziyu Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Qiyuan Tian
 in preparation, to be submitted to *Magnetic Resonance in Medicine*
 
-[High-fidelity fast pediatric anatomical MRI through synergistic Wave-MPRAGE and image denoising]
+High-fidelity fast pediatric anatomical MRI through synergistic Wave-MPRAGE and image denoising
 -----
 Azadeh Tabari, Qiyuan Tian, Megan Goh, Augusto Lio M. Filho, Sam Cartmell, **Jiaxin Xiao**, Michael S. Gee, Susie Y. Huang, John Conklin
 in preparation.
 
-[White matter microstructural alterations in developmental stuttering measured by high-sensitivity multi-shell diffusion MRI]
+White matter microstructural alterations in developmental stuttering measured by high-sensitivity multi-shell diffusion MRI
 -----
 ..., **Jiaxin Xiao**, ..., Qiyuan Tian
 in preparation.
