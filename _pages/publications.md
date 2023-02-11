@@ -13,7 +13,7 @@ Accepted for presentation at the *2023 ISMRM Workshop on Data Sampling & Image R
 [SRNR: Training neural networks for *S*uper-*R*esolution MRI using *N*oisy high-resolution *R*eference data](https://arxiv.org/abs/2211.05360)
 -----
 **Jiaxin Xiao**, Zihan Li, Berkin Bilgic, Jonathan R. Polimeni, Susie Y. Huang, Qiyuan Tian    
-Submitted to the *2023 ISMRM Annual Meeting*
+Accepted for presentation in an in-person Oral Scientific session of the *2023 ISMRM Annual Meeting*
 
 SRNR: Training neural networks for *S*uper-*R*esolution MRI using *N*oisy high-resolution *R*eference data
 -----
